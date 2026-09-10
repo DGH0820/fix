@@ -11,7 +11,8 @@
       "WebFetch(domain:chat.z.ai)",
       "WebFetch(domain:open.bigmodel.cn)",
       "WebFetch(domain:zcode.z.ai)",
-      "Bash(git config *)"
+      "Bash(git config *)",
+      "Bash(chmod +x /home/dgh/桌面/fix/push.sh)"
     ]
   }
 }
