@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.npmjs.com)",
+      "WebFetch(domain:developers.openai.com)",
+      "WebFetch(domain:learn.chatgpt.com)",
+      "WebFetch(domain:aider.chat)",
+      "WebFetch(domain:z.ai)",
+      "WebFetch(domain:chat.z.ai)",
+      "WebFetch(domain:open.bigmodel.cn)",
+      "WebFetch(domain:zcode.z.ai)",
+      "Bash(git config *)"
+    ]
+  }
+}
